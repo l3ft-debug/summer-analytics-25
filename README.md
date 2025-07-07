@@ -1,4 +1,3 @@
-This is the GitHub Repo of Jateen Ramteke.
 # Dynamic Pricing for Urban Parking Lots
 
 ## Overview
